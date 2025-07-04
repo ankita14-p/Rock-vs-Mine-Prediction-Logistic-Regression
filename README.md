@@ -71,12 +71,6 @@ This project was inspired by a YouTube tutorial. While the core concept was lear
 
 ---
 
-## 🙌 Contributions & Feedback
-
-Feel free to fork the repo, suggest improvements, or open issues for any questions or feedback.
-
----
-
 ⭐️ If you found this helpful, consider giving this repo a star!
 
 
